@@ -1,0 +1,30 @@
+h1{
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        margin: 20px;
+        padding: 10px;
+}
+#box1{
+    margin: auto;
+  width: 50%;
+  padding: 20px;
+    text-align: center;
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid rgb(215, 235, 39)
+ 
+    
+}
+body{
+    margin: auto;
+    width: fit-content;
+    height: 320px;
+    border-style:solid;
+    border-color: black;
+    border: 20px solid black;
+}
+h3{
+    background-color: black;
+  color: aliceblue;
+
+}
